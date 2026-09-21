@@ -1,0 +1,6 @@
+{
+  "name": "MJM Smart Business Platform",
+  "description": "منصة MJM للأعمال الذكية الموحدة - نظام Super ERP ثلاثي الأبعاد يربط كافة الشركات التابعة مع حوكمة صلاحيات الرئيس التنفيذي، بريد التوجيهات الآلية لقادة الفرق، ودعم أكثر من 100 لغة عالمية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
